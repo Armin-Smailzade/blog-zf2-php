@@ -1,3 +1,5 @@
+Based on the Zend Sekeleton Application, this is a simple blog application that is showing how to use Controllers, Models and Views templates.
+
 ZendSkeletonApplication
 =======================
 
